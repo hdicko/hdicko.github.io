@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on La gauche pour Mennecy</title>
+    <link>https://hdicko.github.io/tags/</link>
+    <description>Recent content in Tags on La gauche pour Mennecy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Nov 2019 15:45:53 +0100</lastBuildDate>
+    
+	<atom:link href="https://hdicko.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tag3</title>
+      <link>https://hdicko.github.io/tags/tag3/</link>
+      <pubDate>Tue, 05 Nov 2019 15:45:53 +0100</pubDate>
+      
+      <guid>https://hdicko.github.io/tags/tag3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>https://hdicko.github.io/tags/tag2/</link>
+      <pubDate>Tue, 05 Nov 2019 15:45:05 +0100</pubDate>
+      
+      <guid>https://hdicko.github.io/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eelv</title>
+      <link>https://hdicko.github.io/tags/eelv/</link>
+      <pubDate>Tue, 05 Nov 2019 15:44:50 +0100</pubDate>
+      
+      <guid>https://hdicko.github.io/tags/eelv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pc</title>
+      <link>https://hdicko.github.io/tags/pc/</link>
+      <pubDate>Tue, 05 Nov 2019 15:44:50 +0100</pubDate>
+      
+      <guid>https://hdicko.github.io/tags/pc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ps</title>
+      <link>https://hdicko.github.io/tags/ps/</link>
+      <pubDate>Tue, 05 Nov 2019 15:44:50 +0100</pubDate>
+      
+      <guid>https://hdicko.github.io/tags/ps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
